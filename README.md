@@ -971,7 +971,7 @@ _Why:_
 
 - Use these status codes to send with your response to describe whether
   **everything worked**, The **client app did something wrong** or The **API did
-  something wrong**.   
+  something wrong**.
    _Which ones:_ > `200 OK` response represents success for `GET`, `PUT` or `POST`
   requests.
 

@@ -1121,7 +1121,7 @@ Para cada `endpoint` explique:
   se aplica para parâmetros de URL também. Separe a seção entre `Requeridos` e
   `Opcionais`.
 
-- Resposta de sucesso, qual deveria ser o código de status e tem algum dado à
+- Resposta de sucesso, qual deveria ser o código de status e tem algum dado �
   ser retornado junto? Isso é útil quando as pessoas precisam saber o que os
   seus `callbacks` devem esperar:
 
